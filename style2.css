@@ -1,0 +1,62 @@
+.rcolor{
+    color:rgb(97, 124, 50);
+    font-family:Trebuchet MS;
+    font-size:30px;
+}
+
+.aligns{
+    text-align:center;
+    border-style: solid;
+    font-size: 40px;
+}
+.headingss{
+    color:rgb(29, 42, 42);
+    font-size:xx-large;
+
+}
+h2{
+    color:darkslategrey;
+    font-size:xx-large;
+    font-family:Georgia;
+}
+/*.container{
+    position:relative;
+    text-align: right;
+    color:black
+}
+.right{
+    position: absolute;
+    top:75%;
+    left:25%;
+}*/
+.boxes{
+    color:saddlebrown;
+    font-size:xx-large;
+}
+.coloured{
+    color:maroon;
+    font-family:Verdana;
+    font-size:large;
+}
+body{
+    margin:0;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: darkseagreen;
+    padding:5 5rem;
+}
+/*ul{
+    display: flex;
+    list-style:none;
+    gap:5rem;
+    font-size: larger;
+
+}*/
+.headss{
+    color:darkslategrey;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium';
+}
